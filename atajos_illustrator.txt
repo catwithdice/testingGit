@@ -1,0 +1,16 @@
+atajos illustrator
+
+ctrl + G : agrupar
+ctrl + shift + G : desagrupar
+V : seleccionar y transformar objetos
+A : seleccionar y transformar vértices
+I : aplica a la selección el color de lo siguiente que se pinche
+O : herramienta de simetría
+X : cambia entre relleno y borde
+
+ctrl + U : Guías inteligentes (imantado)
+
+
+info@esmaltacionesmadrid.com
+
+luis
