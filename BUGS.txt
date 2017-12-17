@@ -1,0 +1,15 @@
+BUGS y TODO
+
+
+						HAZ UN APAÑO PARA QUE EN EL MINIMAPA SALGAN ENEMIGOS [Global.partida_progreso LO HA ESTROPEADO
+
+
+**************************************************************************************************************
+** 		P posible		  	C confirmado			 F fixed			V a vuelto		T to do (feature)   **
+**************************************************************************************************************
+
+F- parece que no salen las descripciones de la casilla en el minimapa, debe haberse roto el try catch
+
+P- tiempos de inactividad actividad en el selector de publi, parecen exagerados, habrá que comprobarlo cuando existan animaciones de anuncios
+
+T- la animación del attract de los botones son demasiado pesadas para la cpu, tendrán que ir en frames alternos
